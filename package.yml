@@ -1,6 +1,6 @@
 name       : frama-c          # name of the package
-version    : aluminium-1       # version of the package
-kind       : tool                     # one of tool or spec(s)
+version    : aluminium-1      # version of the package
+kind       : tool             # one of tool or spec(s)
 description: Frama-C is an extensible and collaborative platform dedicated to source-code analysis of C software.
 
 author:
